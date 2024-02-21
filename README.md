@@ -1,4 +1,4 @@
-# Next.js ReCaptcha Integration Tutorial
+# Next.js ReCaptcha Integration
 
 This project demonstrates how to integrate Google ReCaptcha with a Next.js application. It covers setting up ReCaptcha in both client-side and server-side contexts to enhance security by protecting your forms from spam and abuse.
 
